@@ -1,6 +1,6 @@
 ## TECH-PIONEERS
 
-### [👉 안전한 야간 주행을 위한 자전거, 킥보드 시스템 계획서](https://github.com/TECH-PIONEERS/capstone-project/blob/main/%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C/%EC%95%88%EC%A0%84%ED%95%9C%20%EC%95%BC%EA%B0%84%20%EC%A3%BC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9E%90%EC%A0%84%EA%B1%B0%2C%20%ED%82%A5%EB%B3%B4%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C_tech-pioneers.pdf)
+### [👉 시각장애인을 위한 골프 서비스 계획서](https://github.com/TECH-PIONEERS/capstone-project/blob/main/%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C/%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B3%A8%ED%94%84%20%EC%84%9C%EB%B9%84%EC%8A%A4_tech-pioneers.pdf)
 
 <br/>
 
