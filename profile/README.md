@@ -1,6 +1,6 @@
 ## TECH-PIONEERS
 
-### [👉 공과 헤드 정렬 계획서](https://github.com/TECH-PIONEERS/capstone-project/blob/main/%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C/%EA%B3%B5%EA%B3%BC%20%ED%97%A4%EB%93%9C%20%EC%A0%95%EB%A0%AC.pdf)
+### [👉 사운드골핑 계획서](https://github.com/TECH-PIONEERS/capstone-project/blob/main/%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C/%EC%82%AC%EC%9A%B4%EB%93%9C%EA%B3%A8%ED%95%91.pdf)
 
 <br/>
 
