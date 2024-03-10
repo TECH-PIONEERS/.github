@@ -1,6 +1,6 @@
 ## TECH-PIONEERS
 
-### [👉 퍼팅서포터 계획서](https://github.com/TECH-PIONEERS/capstone-project/blob/main/%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C/%ED%8D%BC%ED%8C%85%EC%84%9C%ED%8F%AC%ED%84%B0.pdf)
+### [👉 [tech-pioneers]-주제 선정 보고서](https://github.com/TECH-PIONEERS/capstone-project/blob/main/%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C/%ED%8D%BC%ED%8C%85%EC%84%9C%ED%8F%AC%ED%84%B0.pdf)
 
 <br/>
 
