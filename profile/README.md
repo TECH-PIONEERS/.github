@@ -4,7 +4,7 @@
 
 <br/>
 
-### [👉 5월 5주차 - 보고서](https://tech-pioneers.github.io/docs/journal/5-5.html)
+### [👉 6월 1주차 - 보고서](https://tech-pioneers.github.io/docs/journal/6-1.html)
 
 <br/>
 
