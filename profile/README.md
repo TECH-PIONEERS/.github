@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<h1 align='center'> ✋ Team ✋ <h1/>
+<h1 align='center'> ✋ TEAM ✋ <h1/>
 
 
 <div align="center">
