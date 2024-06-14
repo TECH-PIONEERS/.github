@@ -4,19 +4,19 @@
 
 </div>
 
-<h1 align='center'>📎 DOCS ♥📎</h1>
+<h1 align='center'>📎 DOCS 📎</h1>
 <h3 align='center'>
-	<br>
 	<a href="https://github.com/TECH-PIONEERS/capstone-project/blob/main/%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C/%5Btech-pioneers%5D-%EC%A3%BC%EC%A0%9C%20%EC%84%A0%EC%A0%95%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf"> 🗞️ 주제 선정 보고서</a>
   <br>
   </h3>
-  <br/>
 <h3 align='center'>
 <a href="https://tech-pioneers.github.io/docs/journal/6-1.html"> 6️⃣ 6월 1주차 - 보고서 </a>
-<br/>
+
 </h3>
+
+<br/>
+<h1 align='center'>📘 BLOG 📘</h1>
 <h3 align='center'>
-  <br/>
 <a href="https://tech-pioneers.github.io/"> 💻 회의록 & 개발일지 </a>
 <br/>
 </h3>
